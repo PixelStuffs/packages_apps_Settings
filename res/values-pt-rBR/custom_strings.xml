@@ -30,4 +30,7 @@
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
     <string name="ambient_display_screen_off_udfps_summary">Para ativar sua tela e desbloquear, pressione e segure o sensor de impressão digital sob a tela.</string>
 
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Reinicialização avançada</string>
+    <string name="global_actions_advanced_reboot_summary">Mostrar opções de recuperação e bootloader no menu de energia</string>
 </resources>
