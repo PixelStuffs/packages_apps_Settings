@@ -33,4 +33,7 @@
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Reinicialização avançada</string>
     <string name="global_actions_advanced_reboot_summary">Mostrar opções de recuperação e bootloader no menu de energia</string>
+
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Toque para mostrar informações</string>
 </resources>
