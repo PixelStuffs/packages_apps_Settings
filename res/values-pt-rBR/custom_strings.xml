@@ -36,4 +36,19 @@
 
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Toque para mostrar informações</string>
+
+    <!-- Battery Styles -->
+    <string name="battery_percent_title">Estilo do indicador de bateria</string>
+    <string name="battery_percent_summary">Configurar ícones e estilos de texto para o indicador de bateria</string>
+    <string name="status_bar_battery_style_title">Estilo da bateria</string>
+    <string name="status_bar_battery_style_icon_portrait">Ícone retrato</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
+    <string name="status_bar_battery_style_dotted_circle">Círculo pontilhado</string>
+    <string name="status_bar_battery_style_filled_circle">Círculo preenchido</string>
+    <string name="status_bar_battery_style_text">Texto</string>
+    <string name="status_bar_battery_style_hidden">Ocultar</string>
+    <string name="status_bar_battery_percentage_title">Porcentagem de bateria</string>
+    <string name="status_bar_battery_percentage_default">Ocultar</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro do ícone</string>
+    <string name="status_bar_battery_percentage_text_next">Ao lado do ícone</string>
 </resources>
