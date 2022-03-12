@@ -58,4 +58,8 @@
     <!-- Wp zoom -->
     <string name="use_wp_zoom_title">Zoom do papel de parede</string>
     <string name="use_wp_zoom_summary">Alternar o comportamento do zoom do papel de parede</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Deslize para a captura de tela</string>
+    <string name="three_finger_gesture_summary">Deslize para baixo com três dedos para fazer uma captura de tela</string>
 </resources>
