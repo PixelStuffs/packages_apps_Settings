@@ -51,4 +51,7 @@
     <string name="status_bar_battery_percentage_default">Hidden</string>
     <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
     <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+
+    <!-- Battery temperature -->
+    <string name="battery_temp">Battery temperature</string>
 </resources>
