@@ -1261,7 +1261,7 @@
     <string name="sound_settings" msgid="7622986039384531304">"Som e vibração"</string>
     <string name="all_volume_title" msgid="6196367642878437513">"Volumes"</string>
     <string name="musicfx_title" msgid="5458574743312283473">"Efeitos sonoros"</string>
-    <string name="ring_volume_title" msgid="4869034595079914541">"Volume de toques e notificações"</string>
+    <string name="ring_volume_title" msgid="4869034595079914541">"Volume de toque"</string>
     <string name="vibrate_in_silent_title" msgid="5076579100685867363">"Vibrar no modo silencioso"</string>
     <string name="notification_sound_title" msgid="8747567935870133157">"Som de notificação padrão"</string>
     <string name="incoming_call_volume_title" msgid="8445408274513654261">"Toque"</string>
@@ -3689,16 +3689,16 @@
     <string name="keywords_font_size" msgid="1643198841815006447">"tamanho do texto, letras grandes, fonte grande, texto grande, baixa visão, aumentar texto, ampliador de fonte, aumento de fonte"</string>
     <string name="keywords_always_show_time_info" msgid="9120590185763264666">"tela sempre ativada"</string>
     <string name="default_sound" msgid="6604374495015245195">"Som padrão"</string>
-    <string name="sound_settings_summary" msgid="944761906531715109">"Volume de toque e notificação em <xliff:g id="PERCENTAGE">%1$s</xliff:g>"</string>
+    <string name="sound_settings_summary" msgid="944761906531715109">"Volume de toque em <xliff:g id="PERCENTAGE">%1$s</xliff:g>"</string>
     <string name="sound_dashboard_summary" msgid="6574444810552643312">"Volume, vibração, Não perturbe"</string>
     <string name="sound_settings_summary_vibrate" msgid="7192223433295988890">"Campainha configurada para vibrar"</string>
     <string name="sound_settings_summary_silent" msgid="746662794579344761">"Campainha silenciada"</string>
-    <string name="sound_settings_example_summary" msgid="8125110691864707925">"Volume de toque e notificação em 80%"</string>
+    <string name="sound_settings_example_summary" msgid="8125110691864707925">"Volume de toque em 80%"</string>
     <string name="media_volume_option_title" msgid="5966569685119475630">"Volume de mídia"</string>
     <string name="remote_media_volume_option_title" msgid="8760846743943305764">"Volume da transmissão"</string>
     <string name="call_volume_option_title" msgid="1461105986437268924">"Volume das chamadas"</string>
     <string name="alarm_volume_option_title" msgid="6398641749273697140">"Volume do alarme"</string>
-    <string name="ring_volume_option_title" msgid="1520802026403038560">"Volume de toques e notificações"</string>
+    <string name="ring_volume_option_title" msgid="1520802026403038560">"Volume de toque"</string>
     <string name="notification_volume_option_title" msgid="4838818791683615978">"Volume das notificações"</string>
     <string name="ringtone_title" msgid="3271453110387368088">"Toque do telefone"</string>
     <string name="notification_ringtone_title" msgid="6924501621312095512">"Som de notificação padrão"</string>
