@@ -62,4 +62,7 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Deslize para a captura de tela</string>
     <string name="three_finger_gesture_summary">Deslize para baixo com três dedos para fazer uma captura de tela</string>
+
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Vincular &amp; volumes de toque e notificação</string>
 </resources>
