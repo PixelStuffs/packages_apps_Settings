@@ -5534,17 +5534,17 @@
     <string name="quick_controls_lower" msgid="6675573610027367819">"controles do dispositivo"</string>
     <string name="cards_passes_sentence" msgid="1866311782387946944">"Cartões e passes"</string>
     <string name="cards_passes_lower" msgid="2429722007109957877">"cartões e passes"</string>
-    <string name="power_menu_setting_name" msgid="7291642927216934159">"Aperte o botão liga/desliga e o mantenha pressionado"</string>
-    <string name="power_menu_summary_long_press_for_assist_enabled" msgid="5322150755041458952">"Aperte o botão e o mantenha pressionado para abrir o Google Assistente"</string>
-    <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu" msgid="5165714995895517816">"Aperte o botão e o mantenha pressionado para abrir o menu liga/desliga"</string>
-    <string name="power_menu_summary_long_press_for_assist_disabled_no_action" msgid="2831598484771657432">"A opção de apertar o botão e mantê-lo pressionado não está disponível"</string>
+    <string name="power_menu_setting_name" msgid="7291642927216934159">"Adicionais do menu de energia"</string>
+    <string name="power_menu_summary_long_press_for_assist_enabled" msgid="5322150755041458952">"Pressione o botão e o mantenha pressionado para abrir o Google Assistente"</string>
+    <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu" msgid="5165714995895517816">"Pressione o botão e o mantenha pressionado para abrir o menu de energia"</string>
+    <string name="power_menu_summary_long_press_for_assist_disabled_no_action" msgid="2831598484771657432">"A opção de pressionar o botão e mantê-lo pressionado não está disponível"</string>
     <string name="lockscreen_privacy_not_secure" msgid="3251276389681975912">"Para usar, primeiro defina um bloqueio de tela"</string>
     <string name="power_menu_long_press_for_assist" msgid="2016813721240777737">"Segurar para ativar o Google Assistente"</string>
-    <string name="power_menu_long_press_for_assist_summary" msgid="8251928804984560312">"Mantenha o botão liga/desliga pressionado para acionar o Google Assistente"</string>
-    <string name="power_menu_power_volume_up_hint" msgid="1733051433583045623">"Menu liga/desliga e de emergência:\nPressione os botões liga/desliga e aumentar volume ao mesmo tempo."</string>
+    <string name="power_menu_long_press_for_assist_summary" msgid="8251928804984560312">"Mantenha o botão de energia pressionado para acionar o Google Assistente"</string>
+    <string name="power_menu_power_volume_up_hint" msgid="1733051433583045623">"Menu de energia e de emergência:\nPressione os botões energia e aumentar volume ao mesmo tempo."</string>
     <string name="power_menu_power_prevent_ringing_hint" msgid="5786494894009727654">"Impedir o toque:\nAtalho disponível no menu de volumes."</string>
     <string name="power_menu_long_press_for_assist_sensitivity_title" msgid="1626808509158422185">"Duração do pressionamento"</string>
-    <string name="power_menu_long_press_for_assist_sensitivity_summary" msgid="7550610071666801935">"Ajuste a sensibilidade escolhendo por quanto tempo manter o botão liga/desliga pressionado"</string>
+    <string name="power_menu_long_press_for_assist_sensitivity_summary" msgid="7550610071666801935">"Ajuste a sensibilidade escolhendo por quanto tempo manter o botão de energia pressionado"</string>
     <string name="power_menu_long_press_for_assist_sensitivity_low_label" msgid="3430099983480845635">"Curto"</string>
     <string name="power_menu_long_press_for_assist_sensitivity_high_label" msgid="2059686170350829156">"Longo"</string>
     <string name="lockscreen_privacy_wallet_setting_toggle" msgid="4188327143734192000">"Mostrar carteira"</string>
