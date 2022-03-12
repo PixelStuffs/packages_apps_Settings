@@ -65,4 +65,8 @@
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Vincular &amp; volumes de toque e notificações</string>
+
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">Controle de reprodução</string>
+    <string name="volume_button_music_control_summary">Quando a tela está desligada, as teclas de volume pressionadas por muito tempo pularão as faixas de música</string>
 </resources>
