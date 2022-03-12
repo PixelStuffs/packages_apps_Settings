@@ -54,4 +54,8 @@
 
     <!-- Battery temperature -->
     <string name="battery_temp">Battery temperature</string>
+
+    <!-- Wp zoom -->
+    <string name="use_wp_zoom_title">Wallpaper Zoom</string>
+    <string name="use_wp_zoom_summary">Toggle wallpaper zoom behaviour</string>
 </resources>
