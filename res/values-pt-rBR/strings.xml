@@ -4434,7 +4434,7 @@
     <string name="app_permissions" msgid="8666537659217653626">"Gerenciador de permissões"</string>
     <string name="app_permissions_summary" msgid="2709819220672938860">"Apps usando <xliff:g id="APPS">%1$s</xliff:g>"</string>
     <string name="app_permissions_summary_more" msgid="6247952473615352350">"Apps usando <xliff:g id="APPS">%1$s</xliff:g> e mais"</string>
-    <string name="tap_to_wake" msgid="3313433536261440068">"Tocar para ativar"</string>
+    <string name="tap_to_wake" msgid="3313433536261440068">"Toque para ativar"</string>
     <string name="tap_to_wake_summary" msgid="6641039858241611072">"Toque duas vezes em qualquer parte da tela para ativar o dispositivo"</string>
     <string name="domain_urls_title" msgid="7012209752049678876">"Abrir links"</string>
     <string name="domain_urls_summary_none" msgid="1132578967643384733">"Não abrir links compatíveis"</string>
