@@ -69,4 +69,12 @@
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">Controle de reprodução</string>
     <string name="volume_button_music_control_summary">Quando a tela está desligada, as teclas de volume pressionadas por muito tempo pularão as faixas de música</string>
+
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="double_tap_sleep_gesture_title">Toque na barra de status para desativar</string>
+    <string name="double_tap_sleep_gesture_summary">Toque duas vezes na barra de status para desativar o dispositivo</string>
+
+    <!-- Double Tap to Sleep Lockscreen -->
+    <string name="double_tap_sleep_lockscreen_title">Toque na tela de bloqueio para desativar</string>
+    <string name="double_tap_sleep_lockscreen_summary">Toque duas vezes na tela de bloqueio para desativar o dispositivo</string>
 </resources>
