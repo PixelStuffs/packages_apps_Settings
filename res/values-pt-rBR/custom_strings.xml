@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Warning message displayed if user choses not to validate the EAP server -->
+    <string name="wifi_do_not_validate_eap_server_warning">Nenhum certificado especificado. Sua conexão não será privada.</string>
+
+    <!-- Refresh rate -->
+    <string name="min_refresh_rate_title">Taxa mínima de atualização</string>
+    <string name="max_refresh_rate_title">Taxa máxima de atualização</string>
+
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="fingerprint_enroll_find_sensor_message_front">Localize o sensor de impressão digital na frente do seu telefone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear">Localize o sensor de impressão digital na parte de trás do seu telefone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side">Localize o sensor de impressão digital na lateral do seu telefone.</string>
+
+    <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
+    <string name="fingerprint_enroll_touch_dialog_message_front">Toque no sensor na parte frontal do seu telefone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear">Toque no sensor na parte de trás do seu telefone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side">Toque no sensor na lateral do seu telefone.</string>
+
+    <!-- Battery light -->
+    <string name="battery_light_title">Luz de carregamento</string>
+
+    <!-- Fingerprint wake-and-unlock -->
+    <string name="fingerprint_wake_unlock_title">Toque na impressão digital para desbloquear</string>
+    <string name="fingerprint_wake_unlock_touch">Toque para desbloquear</string>
+    <string name="fingerprint_wake_unlock_press">Pressione para desbloquear</string>
+
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Pressione e segure o sensor de impressão digital para desbloquear o dispositivo</string>
+    <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
+    <string name="ambient_display_screen_off_udfps_summary">Para ativar sua tela e desbloquear, pressione e segure o sensor de impressão digital sob a tela.</string>
+
+</resources>
